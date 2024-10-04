@@ -1,5 +1,3 @@
-Here's a more presentable version of your tmux content, rewritten in a human-friendly style using Markdown:
-
 # TMUX: Terminal Multiplexer
 
 TMUX is a powerful tool that allows you to manage multiple terminal sessions within a single window. This guide covers the basics and some customization tips to enhance your terminal experience.
